@@ -8,7 +8,7 @@
 
  ## 🚀 No signup. No installation. Free.
 
- **🌐 Open in Browser**  👉 [*(HTML live demo coming soon)*](https://hyvoid.github.io/Revenue-Management-Decision-Engine/)
+ **🌐 Open in Browser**  👉 [*HTML live demo*](https://hyvoid.github.io/Revenue-Management-Decision-Engine/)
 
  **📥 Download Excel Version**  
  *(GitHub Release / Gumroad link coming soon)*
