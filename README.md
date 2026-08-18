@@ -15,24 +15,6 @@
 
 ---
 
-# Screenshots
-
-### Browser Version
-
-<!-- screenshot: browser version -->
-
-*Interactive management dashboard showing pricing recommendations, guard rail validation, approval queue, and portfolio performance from any browser.*
-
----
-
-### Excel Version
-
-<!-- screenshot: excel version -->
-
-*Native Excel workbook with structured data input, automated rule engine, pricing guard rails, and executive dashboard for weekly decision reviews.*
-
----
-
 # What It Helps You Track
 
 - Pricing recommendations that balance occupancy, demand trends, competitor positioning, and operational stability.
