@@ -6,7 +6,9 @@
 
 **A lightweight revenue management decision-support engine that transforms operational data into governed pricing recommendations—free to use, with both Browser and Excel versions, and no installation required.**
 
- ## 🚀 No signup. No installation. Free.
+**No signup. No installation. Free in your browser.**
+
+Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
 
  **🌐 Open in Browser**  👉 [*HTML live demo*](https://hyvoid.github.io/Revenue-Management-Decision-Engine/)
 
