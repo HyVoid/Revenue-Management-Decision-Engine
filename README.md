@@ -13,7 +13,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
  **🌐 Open in Browser**  👉 [*HTML live demo*](https://hyvoid.github.io/Revenue-Management-Decision-Engine/)
 
  **📥 Download Excel Version**  
- *(GitHub Release / Gumroad link coming soon)*
+ *(GitHub Release / [Website](https://www.theseusworkshop.com/) link coming soon)*
 
 ---
 
@@ -675,7 +675,7 @@ More decision-support tools are being added over time.
 
 **Download Excel Templates**
 
-> https://your-gumroad-link.com
+> [https://www.theseusworkshop.com/](https://www.theseusworkshop.com/)
 
 ---
 
