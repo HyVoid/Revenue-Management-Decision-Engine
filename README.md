@@ -1,3 +1,4 @@
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 # Revenue Management Decision Engine
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
@@ -17,7 +18,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 
 ---
 
-# What It Helps You Track
+## What It Helps You Track
 
 - Pricing recommendations that balance occupancy, demand trends, competitor positioning, and operational stability.
 - Facilities requiring immediate management approval instead of automatic price execution.
@@ -28,7 +29,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 
 ---
 
-# Quick Start Workflow
+## Quick Start Workflow
 
 Getting from operational data to pricing recommendations takes only a few minutes.
 
@@ -91,7 +92,7 @@ Replace the imported dataset and the complete pricing analysis refreshes automat
 ---
 
 **Set a few key parameters. Drop in your existing data. Get the analysis. Refresh whenever new operating data becomes available.**
-# Why I Built This
+## Why I Built This
 
 Many revenue management teams already have access to occupancy reports, competitor pricing, move-in activity, and historical rate changes. The real problem is rarely missing data—it is turning that data into pricing decisions that remain both profitable and operationally stable.
 
@@ -138,7 +139,7 @@ It packages a practical analytical framework into a lightweight decision-support
 
 ---
 
-# Common Revenue Management Problems This Solves
+## Common Revenue Management Problems This Solves
 
 | Problem | Without This Tool | With This Tool |
 |----------|------------------|----------------|
@@ -151,7 +152,7 @@ It packages a practical analytical framework into a lightweight decision-support
 
 ---
 
-# Who This Is For
+## Who This Is For
 
 This workbook is designed for professionals responsible for pricing decisions rather than spreadsheet development.
 
@@ -171,7 +172,7 @@ No spreadsheet expertise is required.
 
 ---
 
-# About
+## About
 
 I build lightweight decision-support tools for situations where there are simply too many moving parts to manage mentally.
 
@@ -180,14 +181,14 @@ Rather than creating dashboards full of charts, I focus on structuring the infor
 **"What information needs to be in one place to make the next decision confidently?"**
 
 The **Revenue Management Decision Engine** is one example of this philosophy. It combines operational data, analytical rules, governance guard rails, and transparent decision logic into a reusable framework that helps teams make consistent pricing decisions without adding unnecessary software complexity.
-# Technical Details
+## Technical Details
 
 <details>
 <summary><strong>For technical reviewers, Excel practitioners, and collaborators</strong></summary>
 
 ---
 
-# Workbook Architecture
+## Workbook Architecture
 
 The workbook follows a deliberately simple pipeline:
 
@@ -247,7 +248,7 @@ Modern Excel Dynamic Arrays automatically expand as additional facilities and un
 
 ---
 
-# Three Traps That Catch Even Experienced Revenue Managers
+## Three Traps That Catch Even Experienced Revenue Managers
 
 ---
 
@@ -461,7 +462,7 @@ AutoExecute
 
 ---
 
-# Example Scenario
+## Example Scenario
 
 A regional operator manages **42 self-storage facilities**.
 
@@ -551,7 +552,7 @@ Routine pricing changes proceed automatically while unusual recommendations rema
 
 ---
 
-# Formula Reference
+## Formula Reference
 
 <details>
 <summary>Rule Engine</summary>
@@ -621,7 +622,7 @@ The workbook is designed for Microsoft 365 using the modern Dynamic Array calcul
 
 ---
 
-# Validation Rules
+## Validation Rules
 
 | Field | Rule | Error Behavior |
 |------|------|----------------|
@@ -655,7 +656,7 @@ This workbook was designed around five operational principles:
 </details>
 ---
 
-# Other Tools in This Series
+## Other Tools in This Series
 
 This project is part of a growing collection of lightweight decision-support tools designed to help operators make better decisions without deploying enterprise software.
 
@@ -679,7 +680,7 @@ More decision-support tools are being added over time.
 
 ---
 
-# Contributing
+## Contributing
 
 Suggestions, bug reports, and improvements are welcome.
 
@@ -698,7 +699,7 @@ If you discover an issue or have an idea for improving the decision framework, p
 
 ---
 
-# Version
+## Version
 
 Current Version
 
@@ -716,7 +717,7 @@ Initial public release featuring:
 
 ---
 
-# License
+## License
 
 This project is licensed under the **Apache License 2.0**.
 
