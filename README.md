@@ -693,7 +693,7 @@ More decision-support tools are being added over time.
 
 **GitHub Repository**
 
-> https://github.com/your-username
+> https://github.com/HyVoid/Revenue-Management-Decision-Engine
 
 **Download Excel Templates**
 
