@@ -1,0 +1,115 @@
+name: Workbook / Tool Issue
+description: Report a reproducible calculation, input, import, compatibility, browser-tool, or documentation problem.
+title: '[Bug]: '
+body:
+- type: markdown
+  attributes:
+    value: 'Use this form only for a reproducible technical issue. For usage questions or feature suggestions, use
+      the [Theseus Workshop Discussions](https://github.com/HyVoid/business-decision-toolbox/discussions) instead.
+
+
+      Do not post tenant names, contact details, lease records, unit-level account data, unpublished competitor
+      intelligence, internal pricing policies, or credentials. Use synthetic facility IDs, unit types, rates, and
+      occupancy figures.
+
+
+      Include a synthetic facility or unit-type ID, observation week, occupancy and move-in/move-out values, reference
+      rate, configured guardrail, recommendation, and approval state. State whether the issue affects a recommendation
+      or its explanation; the tool is decision support, not automatic price execution.'
+- type: dropdown
+  id: problem_area
+  attributes:
+    label: Which area is affected?
+    options:
+    - Occupancy / utilization inputs and thresholds
+    - Move-in / move-out velocity or demand momentum
+    - Competitor pricing / market reference inputs
+    - Facility, property, or unit-type segmentation
+    - Raise / lower / hold recommendation logic
+    - Cooling period / deadband / maximum adjustment guardrails
+    - Approval queue / manual override explanations
+    - Portfolio pricing consistency
+    - Browser / Excel behaviour
+    - Compatibility / documentation
+    - Other
+  validations:
+    required: true
+- type: dropdown
+  id: environment
+  attributes:
+    label: Where did this happen?
+    options:
+    - Microsoft Excel for Windows
+    - Microsoft Excel for Mac
+    - Excel for the web
+    - Free browser application / calculator
+    - Google Sheets preview
+    - Other / not sure
+  validations:
+    required: true
+- type: input
+  id: version
+  attributes:
+    label: Excel version, browser, or tool version
+    description: Optional. Include the Excel build or browser/version and the date tested, if known.
+    placeholder: Microsoft 365 desktop / Excel 2024 / browser and test date
+  validations:
+    required: false
+- type: textarea
+  id: summary
+  attributes:
+    label: What happened?
+    description: Include a synthetic facility or unit-type ID, observation week, occupancy and move-in/move-out
+      values, reference rate, configured guardrail, recommendation, and approval state. State whether the issue
+      affects a recommendation or its explanation; the tool is decision support, not automatic price execution.
+    placeholder: When I enter the synthetic example...
+  validations:
+    required: true
+- type: textarea
+  id: expected_result
+  attributes:
+    label: What did you expect to happen?
+    placeholder: I expected the result or status to...
+  validations:
+    required: true
+- type: textarea
+  id: actual_result
+  attributes:
+    label: What happened instead?
+    description: Include the displayed output, warning, error message, or unexpected behaviour. Remove all confidential
+      information.
+    placeholder: Instead, the tool displays...
+  validations:
+    required: true
+- type: textarea
+  id: reproduction_steps
+  attributes:
+    label: Steps to reproduce
+    description: List the smallest repeatable sequence. Include the worksheet, page, or calculation stage if applicable.
+    placeholder: '1. Open the workbook or browser tool...
+
+      2. Enter synthetic sample values...
+
+      3. Review the affected output...'
+  validations:
+    required: false
+- type: textarea
+  id: safe_example
+  attributes:
+    label: Synthetic example / affected cell or field
+    description: Optional. Include fictitious identifiers, values, units, dates, or column names. Do not attach
+      original source files.
+    placeholder: 'Synthetic ID: ... | Input: ... | Expected: ... | Actual: ...'
+  validations:
+    required: false
+- type: checkboxes
+  id: privacy_check
+  attributes:
+    label: Public issue and data-safety confirmation
+    options:
+    - label: I have used synthetic or properly anonymized examples and removed personal identifiers, customer or
+        supplier data, confidential commercial or engineering information, financial records, credentials, and other
+        sensitive details.
+      required: true
+    - label: I understand this is a public GitHub issue, not a private support channel.
+      required: true

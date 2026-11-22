@@ -16,6 +16,19 @@ Try the browser version for free. If you need the Excel version, you can buy it 
  **📥 Download Excel Version**  
  *(GitHub Release / [Website](https://www.theseusworkshop.com/) link coming soon)*
 
+
+## Questions, Feedback & Product Updates
+
+This toolkit is designed around practical facility pricing recommendations, occupancy signals and pricing governance workflows. Feedback helps identify unclear assumptions, missing scenarios, calculation issues, and improvements to the decision process.
+
+- **Questions & workflow fit:** [Ask about occupancy thresholds, demand momentum, unit or facility segmentation, competitor price inputs, raise/lower/hold recommendations, approval thresholds, cooling periods, or override explanations](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Ideas & improvements:** [Suggest additional demand signals, pricing guardrails, approval workflows, portfolio consistency checks, or management reporting outputs](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Report a technical problem:** [Open the Revenue-Management-Decision-Engine issue form](https://github.com/HyVoid/Revenue-Management-Decision-Engine/issues/new?template=bug-report.yml).
+- **Product updates:** [Follow maintenance and improvement notes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+Do not post tenant names, contact details, lease records, unit-level account data, unpublished competitor intelligence, internal pricing policies, or credentials. Use synthetic facility IDs, unit types, rates, and occupancy figures.
+Use the smallest reproducible example possible. Include the relevant worksheet, input field, date or scenario, and expected versus actual result. Browser demos and spreadsheet previews should be described separately from the downloadable Excel workbook when reporting an environment-specific issue.
+
 ---
 
 ## What It Helps You Track
