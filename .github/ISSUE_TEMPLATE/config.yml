@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: 🛍️ Browse Excel Toolkits on Theseus Workshop ($0+ PWYW)
+    url: https://theseusworkshop.com/?utm_source=github&utm_medium=repo_issue_menu
+    about: Grab ready-to-use decision spreadsheets (enter $0 for the free download).
   - name: "Questions & workflow fit"
     url: "https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions"
     about: "Ask how to use the tool, prepare inputs, interpret results, or fit it to your workflow."
